@@ -1,0 +1,5 @@
+{
+  "name": "ZapMessage AI",
+  "description": "Uma ferramenta web para gerenciar e enviar mensagens em massa no WhatsApp, com auxílio de Inteligência Artificial para criação de conteúdo.",
+  "requestFramePermissions": []
+}
